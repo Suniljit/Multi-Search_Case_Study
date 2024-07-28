@@ -1,0 +1,11 @@
+# Exclude MacOS system files
+.DS_Store
+
+# Exclude Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore environment files
+.env
